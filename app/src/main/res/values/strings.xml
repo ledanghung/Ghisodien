@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GhiSoDien_Hung</string>
+    <string name="nav_chitiet">Chi Tiết KH</string>
+    <string name="nav_locds">Lọc KH</string>
+    <string name="nav_down">DownLoad</string>
+    <string name="nav_upload">Upload</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--<item name="locds" type="id">Lọc DS</item>-->
+    <!--<item name="nav_chitietKH" type="id">Chi Tiết KH</item>-->
+
+
+
+
+</resources>

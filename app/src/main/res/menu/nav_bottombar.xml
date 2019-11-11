@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/list"
+        android:title="@string/nav_chitiet" />
+    <item
+        android:icon="@drawable/loc"
+        android:title="@string/nav_locds" />
+    <item
+        android:icon="@drawable/down"
+        android:title="@string/nav_down" />
+    <item
+        android:icon="@drawable/upload"
+        android:title="@string/nav_upload" />
+</menu>
